@@ -14,7 +14,6 @@ h1 { font-size: clamp(28px, 5vw, 42px); }
   border-top: 5px solid #2563eb;
   border-radius: 16px;
   box-shadow: 0 12px 32px #0f172a12;
-  display: none; /* Lỗi cố ý: ẩn toàn bộ phần giới thiệu. */
 }
 .eyebrow { color: #2563eb; font-size: 13px; font-weight: bold; letter-spacing: 2px; }
 .introduction h2 { margin-top: 0; color: #1d4ed8; }
